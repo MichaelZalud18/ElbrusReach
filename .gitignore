@@ -14,3 +14,5 @@ temp_rips/
 temp_transcodes/
 .vscode/
 makemkv_logs/
+config/snmp_exporter/snmp.yml
+data/
