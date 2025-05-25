@@ -9,10 +9,9 @@ build/
 .pnp/
 .pnp.js
 *.env
-mongo_data/
 temp_rips/
 temp_transcodes/
 .vscode/
 makemkv_logs/
-config/snmp_exporter/snmp.yml
 data/
+config/prometheus/prometheus.yml
